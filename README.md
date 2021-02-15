@@ -1,5 +1,4 @@
-# C-STARE
-SOFWERX Fall 2020 Internship
+# C-STARE - SOFWERX Fall 2020 Cybersecurity & Engineering Internship
 
 ## Goal:
 The goal of the Facial Recognition Project is to create body-worn technology that disrupts the facial recognition software coming from a camera. The two main options that the team is pursuing are clothing or personal wear. The team will keep in mind future options that may also support the RF Signal Team and the Cloud Team.
